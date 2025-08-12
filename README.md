@@ -32,8 +32,8 @@
 
 ---
 ## 🌐 Contact  
-- 📧 Email: [chituong.dev@gmail.com)  
-- 💼 LinkedIn: [link-linkedin](https://linkedin.com)  
+- 📧 Email: [chituong.dev@gmail.com)
+- FaceBook: https://web.facebook.com/lam.chi.tuong.353823
 
 ---
 
