@@ -24,7 +24,7 @@
 **🗄 Databases:**  
 - SQL Server 🛢  
 - MongoDB 🍃  
-- Neo4j 🔗  
+  
 
 **🛠 Tools:**  
 - Git & GitHub 🐙  
